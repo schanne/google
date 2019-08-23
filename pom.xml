@@ -148,7 +148,7 @@
               </excludes>
               <systemPropertyVariables>
                 <selenide.browser>firefox</selenide.browser>
-                <selenide.headless>true</selenide.headless>
+                <selenide.headless>false</selenide.headless>
               </systemPropertyVariables>
             </configuration>
           </plugin>
